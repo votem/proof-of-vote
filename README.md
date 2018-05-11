@@ -33,8 +33,7 @@ Please be thoughtful and considerate to those contributing. For the most part, e
 Please be respectful and refrain from ad hominem attacks of character, as we work to maintain a harassment-free experience for everyone, regardless of age, background, disability, ethnicity, gender identity and expression, expertise, nationality, race, religion, sexual orientation.
 
 ### How to Contribute
-Use Github Issues for clarifications, questions, comments and concerns regarding the protocol.
-Use Pull Requests for modifications and suggestions to the protocol.
+Use [Github Issues](https://github.com/votem/proof-of-vote/issues) for clarifications, questions, comments and concerns regarding the protocol.
 
 If you prefer to not use Github, you more than welcome to email your comments to protocol@votem.com instead.
 
