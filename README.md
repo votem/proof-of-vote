@@ -2,7 +2,7 @@ Proof of Vote®
 ==============
 #### An end-to-end verifiable digital voting protocol using distributed ledger technology (blockchain)
 
-**[Click Here to download whitepaper in PDF Format](https://github.com/votem/proof-of-vote/raw/master/proof-of-vote.pdf)**
+**[Click Here to download whitepaper in PDF Format](https://github.com/votem/proof-of-vote/raw/master/proof-of-vote-whitepaper.pdf)**
 
 **[Click Here to download appendix in PDF Format](https://github.com/votem/proof-of-vote/raw/master/proof-of-vote-appendix.pdf)**
 
