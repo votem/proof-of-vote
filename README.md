@@ -21,7 +21,7 @@ These collective efforts from election administrators, academics, blockchain ent
 
 Your feedback will push the boundaries of what has been considered for electronic voting and will help us realize the ambitious objective of modernizing democracy.
 
-Rules of Engagement
+Contributing Feedback
 -------------------
 
 ### Types of contributions / What we’re looking for
