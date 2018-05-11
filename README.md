@@ -1,4 +1,12 @@
+Proof of Vote®
+==============
+#### An end-to-end verifiable digital voting protocol using distributed ledger technology (blockchain)
 
+**[Click Here to download whitepaper in PDF Format](https://github.com/votem/proof-of-vote/raw/master/proof-of-vote.pdf)**
+
+**[Click Here to download appendix in PDF Format](https://github.com/votem/proof-of-vote/raw/master/proof-of-vote-appendix.pdf)**
+
+We present the Proof of Vote™ protocol, an end-to-end voter verifiable (E2E) digital voting system that uses blockchain to ensure the verifiability, security, and transparency of an election. The protocol leverages an ElGamal re-encryption mixnet for anonymity, a multi-signature scheme for voter authentication and authorization, and verifiable distributed key generation and verifiable decryption for vote encryption and decryption.
 
 Background
 ----------
@@ -33,8 +41,7 @@ Please be thoughtful and considerate to those contributing. For the most part, e
 Please be respectful and refrain from ad hominem attacks of character, as we work to maintain a harassment-free experience for everyone, regardless of age, background, disability, ethnicity, gender identity and expression, expertise, nationality, race, religion, sexual orientation.
 
 ### How to Contribute
-Use Github Issues for clarifications, questions, comments and concerns regarding the protocol.
-Use Pull Requests for modifications and suggestions to the protocol.
+Use [Github Issues](https://github.com/votem/proof-of-vote/issues) for clarifications, questions, comments and concerns regarding the protocol.
 
 If you prefer to not use Github, you more than welcome to email your comments to protocol@votem.com instead.
 
