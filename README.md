@@ -49,12 +49,6 @@ The Votem Protocol Team will do its best to address all issues raised by the com
 
 For more information on how to create an issue or pull requests, please refer to the following documentation: https://help.github.com/articles/creating-an-issue/
 
-#### Contact Information
-
-For any questions/concerns/suggestions/comments, please reach us at:
-
-protocol@votem.com
-
 License and Attribution
 -----------------------
 This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nd/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
@@ -84,3 +78,10 @@ Identify Votem as the creator(s) of the Licensed Material and any others designa
 indicate if You modified the Licensed Material and retain an indication of any previous modifications; and indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
 
 **This is not an exhaustive list of the Creative Commons Attribution-Noderivatives 4.0 International License so please be sure to review it in detail before agreeing to the terms!**
+
+Contact Us
+----------
+For any questions/concerns/suggestions/comments, please reach us at:
+
+protocol@votem.com
+
