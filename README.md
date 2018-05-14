@@ -2,7 +2,7 @@ Proof of Vote®
 ==============
 #### An end-to-end verifiable digital voting protocol using distributed ledger technology (blockchain)
 
-**[Click Here to download whitepaper in PDF Format](https://github.com/votem/proof-of-vote/raw/master/proof-of-vote.pdf)**
+**[Click Here to download whitepaper in PDF Format](https://github.com/votem/proof-of-vote/raw/master/proof-of-vote-whitepaper.pdf)**
 
 **[Click Here to download appendix in PDF Format](https://github.com/votem/proof-of-vote/raw/master/proof-of-vote-appendix.pdf)**
 
@@ -21,7 +21,7 @@ These collective efforts from election administrators, academics, blockchain ent
 
 Your feedback will push the boundaries of what has been considered for electronic voting and will help us realize the ambitious objective of modernizing democracy.
 
-Rules of Engagement
+Contributing Feedback
 -------------------
 
 ### Types of contributions / What we’re looking for
@@ -48,12 +48,6 @@ If you prefer to not use Github, you more than welcome to email your comments to
 The Votem Protocol Team will do its best to address all issues raised by the community in a timely manner.
 
 For more information on how to create an issue or pull requests, please refer to the following documentation: https://help.github.com/articles/creating-an-issue/
-
-#### Contact Information
-
-For any questions/concerns/suggestions/comments, please reach us at:
-
-protocol@votem.com
 
 License and Attribution
 -----------------------
@@ -84,3 +78,10 @@ Identify Votem as the creator(s) of the Licensed Material and any others designa
 indicate if You modified the Licensed Material and retain an indication of any previous modifications; and indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
 
 **This is not an exhaustive list of the Creative Commons Attribution-Noderivatives 4.0 International License so please be sure to review it in detail before agreeing to the terms!**
+
+Contact Us
+----------
+For any questions/concerns/suggestions/comments, please reach us at:
+
+protocol@votem.com
+
